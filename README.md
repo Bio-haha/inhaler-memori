@@ -1,6 +1,6 @@
 # Inhaler Memori
 A portable scent object functioning simultaneously as a personal archive, sensory artwork, and intimate mnemonic device <br><br>
-
+<img src="./img-inmori/inmori03.png" width="500">
 ### Inhaler Memori Workshop, Bandung (ID)
 By Biohaha (Angela Sunaryo and Helmi Hardian)<br>
 Thursday May 7, 2026<br>
@@ -55,3 +55,11 @@ Limited to five participants, the workshop maintained a slow and intimate atmosp
 As part of Biohaha’s broader interdisciplinary practice, Inhaler Memori continues the collective’s interest in participatory art, ecology, deep listening, sensory methodologies, and alternative forms of documenting everyday life. Through the simple act of inhaling, the workshop proposed another way of experiencing the city. One that is slower, embodied, and deeply personal.  
 
 Follow us on instagram! https://www.instagram.com/inhalermemori/ 
+
+<a href="https://bio-haha.github.io/inhaler-memori/pdf-inmori/inmori-workshop-guide.pdf" target="_blank">
+Workshop Guide
+</a>
+<br><br> 
+<a href="https://bio-haha.github.io/inhaler-memori/pdf-inmori/inmori-worksheet.pdf" target="_blank">
+Worksheet
+</a>
