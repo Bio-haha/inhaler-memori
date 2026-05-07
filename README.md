@@ -5,7 +5,7 @@ A portable scent object functioning simultaneously as a personal archive, sensor
 By Biohaha (Angela Sunaryo and Helmi Hardian)<br>
 Thursday May 7, 2026<br>
 ✧ Make Your Own Inhaler Memori — Braga Edition ✧  <br><br>
-<img src="https://github.com/Bio-haha/inhaler-memori/blob/main/img-inmori/inmori-workshop-e-poster-v2.png" width="400">
+<img src="./img-inmori/inmori-workshop-e-poster-v2.png" width="500">
 
 On April 29, 2026, Biohaha (Angela Sunaryo and Helmi Hardian) organised “Make Your Own Inhaler Memori - Braga Edition” at Cafe Halaman, Bandung, Indonesia. The workshop was developed as an extension and derivative practice of the ongoing Sensewalking Flux project, an interdisciplinary artistic research initiated by Biohaha that explores memory, urban atmospheres, deep listening, and sensory engagement through walking, sound, and embodied perception. 
 (https://bio-haha.github.io/sensewalking/) <br><br>
@@ -44,11 +44,13 @@ Rather than producing a standardized fragrance, the workshop emphasized smell as
 
 <p align="center">
   <img src="./img-inmori/biohaha-inmori-013.jpg" width="32%" />
-  <img src="./img-inmori/biohaha-inmori-013.jpg" width="32%" />
+  <img src="./img-inmori/biohaha-inmori-014.jpg" width="32%" />
   <img src="./img-inmori/biohaha-inmori-015.jpg" width="32%" />
 </p>
 
-Limited to five participants, the workshop maintained a slow and intimate atmosphere that encouraged careful attention, experimentation, and collective reflection. Participants shared memories, exchanged stories, and collectively explored how aroma can reactivate emotional connections to spaces, histories, and urban environments.  
+Limited to five participants, the workshop maintained a slow and intimate atmosphere that encouraged careful attention, experimentation, and collective reflection. Participants shared memories, exchanged stories, and collectively explored how aroma can reactivate emotional connections to spaces, histories, and urban environments.  <br><br> 
+
+<img src="./img-inmori/biohaha-inmori-016.jpg">
 
 As part of Biohaha’s broader interdisciplinary practice, Inhaler Memori continues the collective’s interest in participatory art, ecology, deep listening, sensory methodologies, and alternative forms of documenting everyday life. Through the simple act of inhaling, the workshop proposed another way of experiencing the city. One that is slower, embodied, and deeply personal.  
 
