@@ -56,10 +56,10 @@ As part of Biohaha’s broader interdisciplinary practice, Inhaler Memori contin
 
 Follow us on instagram! https://www.instagram.com/inhalermemori/ 
 
-<a href="./pdf-inmori/inmori-workshop-guide.pdf" target="_blank">
+<a href="https://raw.githubusercontent.com/Bio-haha/inhaler-memori/pdf-inmori/inmori-workshop-guide.pdf" target="_blank">
 Workshop Guide
 </a>
 <br><br> 
-<a href="./pdf-inmori/inmori-worksheet.pdf" target="_blank">
+<a href="https://raw.githubusercontent.com/Bio-haha/inhaler-memori/pdf-inmori/inmori-worksheet.pdf" target="_blank">
 Worksheet
 </a>
